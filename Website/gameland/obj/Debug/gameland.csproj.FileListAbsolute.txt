@@ -1,0 +1,168 @@
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\gameland.dll.config
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\gameland.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\gameland.pdb
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csc.exe
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csc.exe.config
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csc.rsp
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csi.exe
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csi.exe.config
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\csi.rsp
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.AppContext.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Console.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.exe
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.exe.config
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.rsp
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csprojAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csproj.CoreCompileInputs.cache
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csproj.CopyComplete
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\obj\Debug\gameland.dll
+C:\Users\marcio.morais\Desktop\Gameland\Website\gameland\obj\Debug\gameland.pdb
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\gameland.dll.config
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\gameland.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\gameland.pdb
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Gameland\Website\gameland\obj\Debug\gameland.csproj.CopyComplete
+C:\Users\etec\Desktop\Gameland\Website\gameland\obj\Debug\gameland.dll
+C:\Users\etec\Desktop\Gameland\Website\gameland\obj\Debug\gameland.pdb
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\gameland.dll.config
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\gameland.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\gameland.pdb
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csc.exe
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csc.exe.config
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csc.rsp
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csi.exe
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csi.exe.config
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\csi.rsp
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.AppContext.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Collections.Immutable.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Console.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.IO.Compression.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.IO.Pipes.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.AccessControl.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Claims.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.ValueTuple.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\vbc.exe
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\vbc.exe.config
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\vbc.rsp
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\roslyn\VBCSCompiler.exe.config
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\obj\Debug\gameland.csprojAssemblyReference.cache
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\obj\Debug\gameland.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\obj\Debug\gameland.csproj.CopyComplete
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\obj\Debug\gameland.dll
+E:\Desenvolvimento Web - Marcio\Gameland\Website\gameland\obj\Debug\gameland.pdb
